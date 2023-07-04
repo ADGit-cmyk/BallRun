@@ -9,9 +9,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-<video controls>
-  <source src="https://clipchamp.com/watch/FsyjcXUiYaI" type="video/mp4">
-</video>
+{% include video.html %}
+
 
 # Header 1
 
