@@ -1,7 +1,6 @@
 title: BallRun
 logo: /assets/img/BallRun.png
-description: BallRun is an exciting and addictive mobile game that puts your skills to the test. In this thrilling adventure, you control a vibrant ball rolling through a dynamic and challenging world filled with obstacles, traps, and rewards. Guide the ball through twisting paths, gravity-defying jumps, and narrow corridors. Dodge obstacles, and unlock new levels as you aim to conquer each thrilling stage. With its stunning visuals, immersive gameplay, and intuitive controls, "BallRun" offers a captivating gaming experience. Get ready to roll, dodge, and conquer the ever-changing landscape in this exciting mobile game.
-show_downloads: false
+description:
 google_analytics:
 theme: jekyll-theme-minimal
 
